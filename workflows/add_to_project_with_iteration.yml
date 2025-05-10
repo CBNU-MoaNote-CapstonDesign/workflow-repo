@@ -14,7 +14,7 @@ on:
         required: true
 
 jobs:
-  add_to_project_with_status:
+  add_to_project_with_iteration:
     runs-on: ubuntu-latest
     steps:
       - name: Fetch project and field IDs
